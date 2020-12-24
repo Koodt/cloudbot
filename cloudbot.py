@@ -31,6 +31,6 @@ def sendPhoto(chat, photo):
 
 #chatId = getChatId(lastUpdate(getUpdatesJson(URL)))
 #photo = 'https://i.forfun.com/jmta9hxs.jpeg'
-message = 'Testing test '
+message = 'Testing test'
 sendMessage(CHAT_ID, message)
 #sendPhoto(chatId, photo)
